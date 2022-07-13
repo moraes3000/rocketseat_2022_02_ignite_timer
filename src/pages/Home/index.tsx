@@ -25,7 +25,7 @@ export function Home() {
   function handleCreateNewCycle(data: any) {
     return console.log(data)
   }
-  console.log(formState.errors)
+  // console.log(formState.errors)
 
 
   return (
